@@ -12,7 +12,7 @@ Contents
 
 [**1\. Project Research and Existing Software:** 2](#_Toc239968873)
 
-[**How Will the Smark Parking Application We Are Building Be Different?** 3](#_Toc239968874)
+[**How Will the Smart Parking Application We Are Building Be Different?** 3](#_Toc239968874)
 
 [**2\. Project Vision and Scope:** 3](#_Toc239968875)
 
@@ -32,7 +32,7 @@ During the research phase of this project, I saw that were a number of existing 
 
 Key Points: The existing solutions for this use show that this industry already has some apps that have strong capabilities. However, there is room for improvement for each one, which our application could excel in.
 
-## **How Will the Smark Parking Application We Are Building Be Different?**
+## **How Will the Smart Parking Application We Are Building Be Different?**
 
 After reviewing the existing software solutions for a Smart Parking Platform, it is evident that there is opportunity for differentiation between our application and their applications. The plan for this Smart Parking Platform is going to combine real-time data, parking reservations, navigation, seamless payments, adequate notifications, and more functionality for operator-side functions. Using real-time data for parking spot occupancy can provide more information to customers for more reliable estimates and availability. This application will differentiate itself from these existing solutions by connecting real-time data on availability, reservations, interactive maps, notifications, and more. This platform will directly support this project's high-level requirements for things like availability, reservation capabilities, payments, navigation, notifications, and administrative tools. The experience on this app will be more unified, seamless, intuitive, and useful for the potential userbase.
 
